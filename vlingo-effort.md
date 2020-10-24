@@ -81,7 +81,14 @@
     1. After the `nested` is returning a `Completes` the rest of the chain in the `Completes<Integer> service` is called into the `hasFailed()` and 
        `isDone()` is `true`. This CAN NOT BE RIGHT.
        
-       
+1. Ok, I have found the problem. Since the lamdba that returns the `nested Completes`, the `future` of that outer `Completes` will be marked `Done`,
+   since it contains a value. That in turn is not expected in the outer logic and things goes wrong. I don't think I should try to figure out
+   how to fix this, until I have spoken to Vaughn. Whether it is a matter of a small patch, or whether to go for a larger refactoring.
+   
+1. The CFCompletes class is pretty badly designed, as for instance there are side-effects in query methods, which I think arise from the fact that a
+   functional programming style is used, although states are maintained and changed within methods/functions. GutFeeling™ also indicates that this
+   class is overly complex and possibly not thread-safe, although attempting to be thread-safe. In essence, if the single-thread case is barely 
+   understandable, then it is extremely high probability that the multi-thread behavior is non-deterministic.
 
 
 
