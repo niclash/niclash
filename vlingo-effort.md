@@ -1,7 +1,7 @@
 
 # Vlingo Reactive Platform
 
-## Review and Get Going (a.k.a. Work Log)
+## 2020-10-24
 
 1. Go to vlingo.io and navigate to the Getting Started and the [vlingo-hello example](https://docs.vlingo.io/getting-started/hello-world-1).
 1. Install maven... Gosh, haven't used that in years.
@@ -91,5 +91,21 @@
    understandable, then it is extremely high probability that the multi-thread behavior is non-deterministic.
 
 
+## 2020-10-25
+1. The problem is actually that this is an overengineered class, too much responsibilty and both the use-cases and the specifications are probably
+   very weak and haphazard. I also think that upfront-design on this is both necessary and at the same time nearly impossible. One need a deep
+   understanding and experience of the use-cases, which I don't have, to do this right and once one has failed a few times, then tackle the upfront
+   design by starting from nothing, tossing all that experience out the window and then approach the ACTUAL **requirements** in a top-down fashion,
+   without being stuck in a particular mindset on how it should be solved. REMEMBER, it has to thread-safe as well, which I claim nearly no programmer
+   is capable of handling in any situation other than the most rudimentary ones, as my experience in the Pony Language world has shown.
+   
+1. Given budget constraints, I am not particularly hopeful that this will ever be made "right", especially if compatibility has to be preserved.
 
+1. That said, the immediate issue is that the `Completes` that is returned from within the lambda must somehow be short-circuited to not become that
+   `Future`'s value. Is that possible at the moment?
+   
+1. Interesting!! If I remove the `failureValue` check in `hasFailed()` method, then all the testcases passes. So, then the question is; What was
+   that check for? Some untested (mis-)use-case, I presume, but without the experience, I have no clue what that could be.
+   
+1. Let's wait until after chat with Vaughn. Enough for now.
        
