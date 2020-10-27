@@ -10,7 +10,7 @@ I am a staunch supporter of Open Source Software and currently serving on the [B
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=niclash&show_icons=true&theme=tokyonight" />
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#64](https://github.com/seantallen-org/lori/pull/64) in [seantallen-org/lori](https://github.com/seantallen-org/lori)
-2. 🗣 Commented on [#53](https://github.com/ops4j/org.ops4j.pax.logging/issues/53) in [ops4j/org.ops4j.pax.logging](https://github.com/ops4j/org.ops4j.pax.logging)
-3. 🗣 Commented on [#186](https://github.com/apache/plc4x/issues/186) in [apache/plc4x](https://github.com/apache/plc4x)
+1. ❗️ Opened issue [#80](https://github.com/nophead/NopSCADlib/issues/80) in [nophead/NopSCADlib](https://github.com/nophead/NopSCADlib)
+2. 💪 Opened PR [#64](https://github.com/seantallen-org/lori/pull/64) in [seantallen-org/lori](https://github.com/seantallen-org/lori)
+3. 🗣 Commented on [#53](https://github.com/ops4j/org.ops4j.pax.logging/issues/53) in [ops4j/org.ops4j.pax.logging](https://github.com/ops4j/org.ops4j.pax.logging)
 <!--END_SECTION:activity-->
