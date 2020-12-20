@@ -10,7 +10,7 @@ I am a staunch supporter of Open Source Software and currently serving on the [B
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=niclash&show_icons=true&theme=tokyonight" />
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#80](https://github.com/nophead/NopSCADlib/issues/80) in [nophead/NopSCADlib](https://github.com/nophead/NopSCADlib)
-2. 🗣 Commented on [#80](https://github.com/nophead/NopSCADlib/issues/80) in [nophead/NopSCADlib](https://github.com/nophead/NopSCADlib)
+1. 💪 Opened PR [#2](https://github.com/subutai-blueprints/opencart-blueprint/pull/2) in [subutai-blueprints/opencart-blueprint](https://github.com/subutai-blueprints/opencart-blueprint)
+2. ❗️ Closed issue [#80](https://github.com/nophead/NopSCADlib/issues/80) in [nophead/NopSCADlib](https://github.com/nophead/NopSCADlib)
 3. 🗣 Commented on [#80](https://github.com/nophead/NopSCADlib/issues/80) in [nophead/NopSCADlib](https://github.com/nophead/NopSCADlib)
 <!--END_SECTION:activity-->
