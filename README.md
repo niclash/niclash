@@ -10,7 +10,7 @@ I am a staunch supporter of Open Source Software and currently serving on the [B
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=niclash&show_icons=true&theme=tokyonight" />
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/emilbayes/pony-endianness/issues/1) in [emilbayes/pony-endianness](https://github.com/emilbayes/pony-endianness)
-2. ❗️ Opened issue [#1](https://github.com/KittyMac/pony.ui/issues/1) in [KittyMac/pony.ui](https://github.com/KittyMac/pony.ui)
-3. 🗣 Commented on [#3703](https://github.com/ponylang/ponyc/issues/3703) in [ponylang/ponyc](https://github.com/ponylang/ponyc)
+1. 💪 Opened PR [#4](https://github.com/davepoo/6502Emulator/pull/4) in [davepoo/6502Emulator](https://github.com/davepoo/6502Emulator)
+2. ❗️ Opened issue [#1](https://github.com/emilbayes/pony-endianness/issues/1) in [emilbayes/pony-endianness](https://github.com/emilbayes/pony-endianness)
+3. ❗️ Opened issue [#1](https://github.com/KittyMac/pony.ui/issues/1) in [KittyMac/pony.ui](https://github.com/KittyMac/pony.ui)
 <!--END_SECTION:activity-->
