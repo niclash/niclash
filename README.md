@@ -10,7 +10,7 @@ I am a staunch supporter of Open Source Software and currently serving on the [B
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=niclash&show_icons=true&theme=tokyonight" />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#256](https://github.com/davellanedam/vue-skeleton-mvp/issues/256) in [davellanedam/vue-skeleton-mvp](https://github.com/davellanedam/vue-skeleton-mvp)
-2. 🗣 Commented on [#255](https://github.com/davellanedam/vue-skeleton-mvp/issues/255) in [davellanedam/vue-skeleton-mvp](https://github.com/davellanedam/vue-skeleton-mvp)
-3. 🗣 Commented on [#256](https://github.com/davellanedam/vue-skeleton-mvp/issues/256) in [davellanedam/vue-skeleton-mvp](https://github.com/davellanedam/vue-skeleton-mvp)
+1. ❗️ Closed issue [#256](https://github.com/davellanedam/vue-skeleton-mvp/issues/256) in [davellanedam/vue-skeleton-mvp](https://github.com/davellanedam/vue-skeleton-mvp)
+2. 🗣 Commented on [#256](https://github.com/davellanedam/vue-skeleton-mvp/issues/256) in [davellanedam/vue-skeleton-mvp](https://github.com/davellanedam/vue-skeleton-mvp)
+3. 🗣 Commented on [#255](https://github.com/davellanedam/vue-skeleton-mvp/issues/255) in [davellanedam/vue-skeleton-mvp](https://github.com/davellanedam/vue-skeleton-mvp)
 <!--END_SECTION:activity-->
