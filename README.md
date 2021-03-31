@@ -10,7 +10,7 @@ I am a staunch supporter of Open Source Software and currently serving on the [B
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=niclash&show_icons=true&theme=tokyonight" />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#180](https://github.com/ponylang/corral/issues/180) in [ponylang/corral](https://github.com/ponylang/corral)
-2. ❗️ Opened issue [#1917](https://github.com/OpenBazaar/openbazaar-desktop/issues/1917) in [OpenBazaar/openbazaar-desktop](https://github.com/OpenBazaar/openbazaar-desktop)
-3. ❗️ Closed issue [#255](https://github.com/davellanedam/vue-skeleton-mvp/issues/255) in [davellanedam/vue-skeleton-mvp](https://github.com/davellanedam/vue-skeleton-mvp)
+1. ❗️ Opened issue [#4009](https://github.com/TheThingsNetwork/lorawan-stack/issues/4009) in [TheThingsNetwork/lorawan-stack](https://github.com/TheThingsNetwork/lorawan-stack)
+2. 🗣 Commented on [#180](https://github.com/ponylang/corral/issues/180) in [ponylang/corral](https://github.com/ponylang/corral)
+3. ❗️ Opened issue [#1917](https://github.com/OpenBazaar/openbazaar-desktop/issues/1917) in [OpenBazaar/openbazaar-desktop](https://github.com/OpenBazaar/openbazaar-desktop)
 <!--END_SECTION:activity-->
