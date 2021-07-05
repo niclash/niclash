@@ -10,7 +10,7 @@ I am a staunch supporter of Open Source Software and currently serving on the [B
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=niclash&show_icons=true&theme=tokyonight" />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30963](https://github.com/grafana/grafana/issues/30963) in [grafana/grafana](https://github.com/grafana/grafana)
-2. ❗️ Opened issue [#595](https://github.com/ngx-rocket/generator-ngx-rocket/issues/595) in [ngx-rocket/generator-ngx-rocket](https://github.com/ngx-rocket/generator-ngx-rocket)
-3. 🗣 Commented on [#4009](https://github.com/TheThingsNetwork/lorawan-stack/issues/4009) in [TheThingsNetwork/lorawan-stack](https://github.com/TheThingsNetwork/lorawan-stack)
+1. ❗️ Opened issue [#3](https://github.com/Sensetif/sensetif-app-plugin/issues/3) in [Sensetif/sensetif-app-plugin](https://github.com/Sensetif/sensetif-app-plugin)
+2. ❗️ Opened issue [#2](https://github.com/Sensetif/sensetif-app-plugin/issues/2) in [Sensetif/sensetif-app-plugin](https://github.com/Sensetif/sensetif-app-plugin)
+3. ❗️ Opened issue [#1](https://github.com/Sensetif/sensetif-app-plugin/issues/1) in [Sensetif/sensetif-app-plugin](https://github.com/Sensetif/sensetif-app-plugin)
 <!--END_SECTION:activity-->
