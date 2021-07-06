@@ -10,7 +10,7 @@ I am a staunch supporter of Open Source Software and currently serving on the [B
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=niclash&show_icons=true&theme=tokyonight" />
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#9](https://github.com/Sensetif/sensetif-app-plugin/issues/9) in [Sensetif/sensetif-app-plugin](https://github.com/Sensetif/sensetif-app-plugin)
-2. ❗️ Closed issue [#5](https://github.com/Sensetif/sensetif-app-plugin/issues/5) in [Sensetif/sensetif-app-plugin](https://github.com/Sensetif/sensetif-app-plugin)
-3. ❗️ Closed issue [#4](https://github.com/Sensetif/sensetif-app-plugin/issues/4) in [Sensetif/sensetif-app-plugin](https://github.com/Sensetif/sensetif-app-plugin)
+1. ❗️ Closed issue [#3](https://github.com/Sensetif/sensetif-app-plugin/issues/3) in [Sensetif/sensetif-app-plugin](https://github.com/Sensetif/sensetif-app-plugin)
+2. ❗️ Closed issue [#9](https://github.com/Sensetif/sensetif-app-plugin/issues/9) in [Sensetif/sensetif-app-plugin](https://github.com/Sensetif/sensetif-app-plugin)
+3. ❗️ Reopened issue [#7](https://github.com/Sensetif/sensetif-app-plugin/issues/7) in [Sensetif/sensetif-app-plugin](https://github.com/Sensetif/sensetif-app-plugin)
 <!--END_SECTION:activity-->
