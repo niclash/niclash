@@ -10,7 +10,7 @@ I am a staunch supporter of Open Source Software and currently serving on the [B
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=niclash&show_icons=true&theme=tokyonight" />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#696](https://github.com/ponylang/ponylang-website/issues/696) in [ponylang/ponylang-website](https://github.com/ponylang/ponylang-website)
-2. ❗️ Opened issue [#21](https://github.com/Sensetif/sensetif-app-plugin/issues/21) in [Sensetif/sensetif-app-plugin](https://github.com/Sensetif/sensetif-app-plugin)
-3. ❗️ Opened issue [#20](https://github.com/Sensetif/sensetif-app-plugin/issues/20) in [Sensetif/sensetif-app-plugin](https://github.com/Sensetif/sensetif-app-plugin)
+1. 💪 Opened PR [#194](https://github.com/nophead/NopSCADlib/pull/194) in [nophead/NopSCADlib](https://github.com/nophead/NopSCADlib)
+2. 🗣 Commented on [#696](https://github.com/ponylang/ponylang-website/issues/696) in [ponylang/ponylang-website](https://github.com/ponylang/ponylang-website)
+3. ❗️ Opened issue [#21](https://github.com/Sensetif/sensetif-app-plugin/issues/21) in [Sensetif/sensetif-app-plugin](https://github.com/Sensetif/sensetif-app-plugin)
 <!--END_SECTION:activity-->
