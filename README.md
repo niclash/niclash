@@ -12,5 +12,5 @@ I am a staunch supporter of Open Source Software and currently serving on the [B
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#195](https://github.com/nophead/NopSCADlib/issues/195) in [nophead/NopSCADlib](https://github.com/nophead/NopSCADlib)
 2. 🗣 Commented on [#195](https://github.com/nophead/NopSCADlib/issues/195) in [nophead/NopSCADlib](https://github.com/nophead/NopSCADlib)
-3. ❌ Closed PR [#195](https://github.com/nophead/NopSCADlib/pull/195) in [nophead/NopSCADlib](https://github.com/nophead/NopSCADlib)
+3. 🗣 Commented on [#195](https://github.com/nophead/NopSCADlib/issues/195) in [nophead/NopSCADlib](https://github.com/nophead/NopSCADlib)
 <!--END_SECTION:activity-->
