@@ -10,7 +10,7 @@ I am a staunch supporter of Open Source Software and currently serving on the [B
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=niclash&show_icons=true&theme=tokyonight" />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/Sensetif/sensetif-app-plugin/issues/17) in [Sensetif/sensetif-app-plugin](https://github.com/Sensetif/sensetif-app-plugin)
-2. ❗️ Closed issue [#16](https://github.com/Sensetif/sensetif-app-plugin/issues/16) in [Sensetif/sensetif-app-plugin](https://github.com/Sensetif/sensetif-app-plugin)
-3. 🗣 Commented on [#16](https://github.com/Sensetif/sensetif-app-plugin/issues/16) in [Sensetif/sensetif-app-plugin](https://github.com/Sensetif/sensetif-app-plugin)
+1. 🗣 Commented on [#195](https://github.com/nophead/NopSCADlib/issues/195) in [nophead/NopSCADlib](https://github.com/nophead/NopSCADlib)
+2. 🗣 Commented on [#195](https://github.com/nophead/NopSCADlib/issues/195) in [nophead/NopSCADlib](https://github.com/nophead/NopSCADlib)
+3. 🗣 Commented on [#195](https://github.com/nophead/NopSCADlib/issues/195) in [nophead/NopSCADlib](https://github.com/nophead/NopSCADlib)
 <!--END_SECTION:activity-->
