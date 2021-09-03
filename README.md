@@ -10,7 +10,7 @@ I am a staunch supporter of Open Source Software and currently serving on the [B
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=niclash&show_icons=true&theme=tokyonight" />
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12387](https://github.com/jOOQ/jOOQ/issues/12387) in [jOOQ/jOOQ](https://github.com/jOOQ/jOOQ)
+1. 🗣 Commented on [#195](https://github.com/nophead/NopSCADlib/issues/195) in [nophead/NopSCADlib](https://github.com/nophead/NopSCADlib)
 2. 🗣 Commented on [#195](https://github.com/nophead/NopSCADlib/issues/195) in [nophead/NopSCADlib](https://github.com/nophead/NopSCADlib)
 3. 🗣 Commented on [#195](https://github.com/nophead/NopSCADlib/issues/195) in [nophead/NopSCADlib](https://github.com/nophead/NopSCADlib)
 <!--END_SECTION:activity-->
