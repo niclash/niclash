@@ -11,6 +11,6 @@ I am a staunch supporter of Open Source Software and currently serving on the [B
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#18](https://github.com/Sensetif/sensetif-app-plugin/issues/18) in [Sensetif/sensetif-app-plugin](https://github.com/Sensetif/sensetif-app-plugin)
-2. 🗣 Commented on [#196](https://github.com/nophead/NopSCADlib/issues/196) in [nophead/NopSCADlib](https://github.com/nophead/NopSCADlib)
-3. ❗️ Closed issue [#196](https://github.com/nophead/NopSCADlib/issues/196) in [nophead/NopSCADlib](https://github.com/nophead/NopSCADlib)
+2. 🗣 Commented on [#18](https://github.com/Sensetif/sensetif-app-plugin/issues/18) in [Sensetif/sensetif-app-plugin](https://github.com/Sensetif/sensetif-app-plugin)
+3. 🗣 Commented on [#196](https://github.com/nophead/NopSCADlib/issues/196) in [nophead/NopSCADlib](https://github.com/nophead/NopSCADlib)
 <!--END_SECTION:activity-->
