@@ -11,6 +11,6 @@ I am a staunch supporter of Open Source Software and currently serving on the [B
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4686](https://github.com/TheThingsNetwork/lorawan-stack/issues/4686) in [TheThingsNetwork/lorawan-stack](https://github.com/TheThingsNetwork/lorawan-stack)
-2. ❗️ Opened issue [#4686](https://github.com/TheThingsNetwork/lorawan-stack/issues/4686) in [TheThingsNetwork/lorawan-stack](https://github.com/TheThingsNetwork/lorawan-stack)
-3. ❗️ Closed issue [#23](https://github.com/Sensetif/sensetif-app-plugin/issues/23) in [Sensetif/sensetif-app-plugin](https://github.com/Sensetif/sensetif-app-plugin)
+2. 🗣 Commented on [#4686](https://github.com/TheThingsNetwork/lorawan-stack/issues/4686) in [TheThingsNetwork/lorawan-stack](https://github.com/TheThingsNetwork/lorawan-stack)
+3. ❗️ Opened issue [#4686](https://github.com/TheThingsNetwork/lorawan-stack/issues/4686) in [TheThingsNetwork/lorawan-stack](https://github.com/TheThingsNetwork/lorawan-stack)
 <!--END_SECTION:activity-->
