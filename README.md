@@ -12,5 +12,5 @@ I am a staunch supporter of Open Source Software and currently serving on the [B
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#25](https://github.com/Sensetif/sensetif-app-plugin/issues/25) in [Sensetif/sensetif-app-plugin](https://github.com/Sensetif/sensetif-app-plugin)
 2. 🗣 Commented on [#25](https://github.com/Sensetif/sensetif-app-plugin/issues/25) in [Sensetif/sensetif-app-plugin](https://github.com/Sensetif/sensetif-app-plugin)
-3. ❗️ Opened issue [#25](https://github.com/Sensetif/sensetif-app-plugin/issues/25) in [Sensetif/sensetif-app-plugin](https://github.com/Sensetif/sensetif-app-plugin)
+3. 🗣 Commented on [#25](https://github.com/Sensetif/sensetif-app-plugin/issues/25) in [Sensetif/sensetif-app-plugin](https://github.com/Sensetif/sensetif-app-plugin)
 <!--END_SECTION:activity-->
