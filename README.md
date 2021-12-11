@@ -10,7 +10,7 @@ I am a staunch supporter of Open Source Software and currently serving on the [B
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=niclash&show_icons=true&theme=tokyonight" />
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/Sensetif/sensetif-app-plugin/issues/25) in [Sensetif/sensetif-app-plugin](https://github.com/Sensetif/sensetif-app-plugin)
+1. 🗣 Commented on [#42](https://github.com/vitobotta/hetzner-k3s/issues/42) in [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s)
 2. 🗣 Commented on [#25](https://github.com/Sensetif/sensetif-app-plugin/issues/25) in [Sensetif/sensetif-app-plugin](https://github.com/Sensetif/sensetif-app-plugin)
 3. 🗣 Commented on [#25](https://github.com/Sensetif/sensetif-app-plugin/issues/25) in [Sensetif/sensetif-app-plugin](https://github.com/Sensetif/sensetif-app-plugin)
 <!--END_SECTION:activity-->
