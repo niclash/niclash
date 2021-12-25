@@ -9,10 +9,13 @@ I am a staunch supporter of Open Source Software and served on the [Board of the
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=niclash&show_icons=true&theme=tokyonight" />
 
-I also run many GitHub Organizations
-@BaliAutomation
-@AwesomeAudioApparatus
-@color4j
+I am also the owner of these GitHub Organizations
+[Bali Automation](https://github.com/BaliAutomation)
+[Sensetif](https://github.com/Sensetif)
+[Awesome Audio Apparatus](https://github.com/AwesomeAudioApparatus)
+[Color4j](https://github.com/color4j)
+[Qi4j](https://github.com/Qi4j)
+
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#42](https://github.com/vitobotta/hetzner-k3s/issues/42) in [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s)
