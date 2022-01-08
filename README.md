@@ -19,7 +19,7 @@ I am also the owner of these GitHub Organizations
 
 ## Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Sensetif/sensetif-datasource-plugin/issues/1) in [Sensetif/sensetif-datasource-plugin](https://github.com/Sensetif/sensetif-datasource-plugin)
+1. 🎉 Merged PR [#2](https://github.com/Sensetif/sensetif-datasource-plugin/pull/2) in [Sensetif/sensetif-datasource-plugin](https://github.com/Sensetif/sensetif-datasource-plugin)
 2. 🗣 Commented on [#1](https://github.com/Sensetif/sensetif-datasource-plugin/issues/1) in [Sensetif/sensetif-datasource-plugin](https://github.com/Sensetif/sensetif-datasource-plugin)
 3. 🗣 Commented on [#1](https://github.com/Sensetif/sensetif-datasource-plugin/issues/1) in [Sensetif/sensetif-datasource-plugin](https://github.com/Sensetif/sensetif-datasource-plugin)
 <!--END_SECTION:activity-->
