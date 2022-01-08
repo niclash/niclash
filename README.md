@@ -20,6 +20,6 @@ I am also the owner of these GitHub Organizations
 ## Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/Sensetif/sensetif-datasource-plugin/issues/1) in [Sensetif/sensetif-datasource-plugin](https://github.com/Sensetif/sensetif-datasource-plugin)
-2. ❗️ Opened issue [#1](https://github.com/Sensetif/sensetif-datasource-plugin/issues/1) in [Sensetif/sensetif-datasource-plugin](https://github.com/Sensetif/sensetif-datasource-plugin)
-3. 🗣 Commented on [#42](https://github.com/vitobotta/hetzner-k3s/issues/42) in [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s)
+2. 🗣 Commented on [#1](https://github.com/Sensetif/sensetif-datasource-plugin/issues/1) in [Sensetif/sensetif-datasource-plugin](https://github.com/Sensetif/sensetif-datasource-plugin)
+3. 🗣 Commented on [#1](https://github.com/Sensetif/sensetif-datasource-plugin/issues/1) in [Sensetif/sensetif-datasource-plugin](https://github.com/Sensetif/sensetif-datasource-plugin)
 <!--END_SECTION:activity-->
