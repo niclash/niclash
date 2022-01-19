@@ -19,7 +19,7 @@ I am also the owner of these GitHub Organizations
 
 ## Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#92](https://github.com/ForthHub/discussion/issues/92) in [ForthHub/discussion](https://github.com/ForthHub/discussion)
-2. 🗣 Commented on [#485](https://github.com/ponylang/pony-tutorial/issues/485) in [ponylang/pony-tutorial](https://github.com/ponylang/pony-tutorial)
+1. 💪 Opened PR [#488](https://github.com/ponylang/pony-tutorial/pull/488) in [ponylang/pony-tutorial](https://github.com/ponylang/pony-tutorial)
+2. 🗣 Commented on [#92](https://github.com/ForthHub/discussion/issues/92) in [ForthHub/discussion](https://github.com/ForthHub/discussion)
 3. 🗣 Commented on [#485](https://github.com/ponylang/pony-tutorial/issues/485) in [ponylang/pony-tutorial](https://github.com/ponylang/pony-tutorial)
 <!--END_SECTION:activity-->
