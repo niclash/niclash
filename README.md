@@ -19,7 +19,7 @@ I am also the owner of these GitHub Organizations
 
 ## Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#488](https://github.com/ponylang/pony-tutorial/pull/488) in [ponylang/pony-tutorial](https://github.com/ponylang/pony-tutorial)
-2. 🗣 Commented on [#92](https://github.com/ForthHub/discussion/issues/92) in [ForthHub/discussion](https://github.com/ForthHub/discussion)
-3. 🗣 Commented on [#485](https://github.com/ponylang/pony-tutorial/issues/485) in [ponylang/pony-tutorial](https://github.com/ponylang/pony-tutorial)
+1. 🎉 Merged PR [#26](https://github.com/Sensetif/sensetif-app-plugin/pull/26) in [Sensetif/sensetif-app-plugin](https://github.com/Sensetif/sensetif-app-plugin)
+2. 💪 Opened PR [#488](https://github.com/ponylang/pony-tutorial/pull/488) in [ponylang/pony-tutorial](https://github.com/ponylang/pony-tutorial)
+3. 🗣 Commented on [#92](https://github.com/ForthHub/discussion/issues/92) in [ForthHub/discussion](https://github.com/ForthHub/discussion)
 <!--END_SECTION:activity-->
