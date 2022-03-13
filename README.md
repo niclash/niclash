@@ -19,7 +19,7 @@ I am also the owner of these GitHub Organizations
 
 ## Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1699](https://github.com/ops4j/org.ops4j.pax.web/issues/1699) in [ops4j/org.ops4j.pax.web](https://github.com/ops4j/org.ops4j.pax.web)
-2. 🎉 Merged PR [#26](https://github.com/Sensetif/sensetif-app-plugin/pull/26) in [Sensetif/sensetif-app-plugin](https://github.com/Sensetif/sensetif-app-plugin)
-3. 💪 Opened PR [#488](https://github.com/ponylang/pony-tutorial/pull/488) in [ponylang/pony-tutorial](https://github.com/ponylang/pony-tutorial)
+1. 🗣 Commented on [#1699](https://github.com/ops4j/org.ops4j.pax.web/issues/1699) in [ops4j/org.ops4j.pax.web](https://github.com/ops4j/org.ops4j.pax.web)
+2. 🗣 Commented on [#1699](https://github.com/ops4j/org.ops4j.pax.web/issues/1699) in [ops4j/org.ops4j.pax.web](https://github.com/ops4j/org.ops4j.pax.web)
+3. 🗣 Commented on [#1699](https://github.com/ops4j/org.ops4j.pax.web/issues/1699) in [ops4j/org.ops4j.pax.web](https://github.com/ops4j/org.ops4j.pax.web)
 <!--END_SECTION:activity-->
