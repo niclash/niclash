@@ -19,7 +19,7 @@ I am also the owner of these GitHub Organizations
 
 ## Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/Sensetif/sensetif-app-plugin/pull/27) in [Sensetif/sensetif-app-plugin](https://github.com/Sensetif/sensetif-app-plugin)
-2. 🗣 Commented on [#1699](https://github.com/ops4j/org.ops4j.pax.web/issues/1699) in [ops4j/org.ops4j.pax.web](https://github.com/ops4j/org.ops4j.pax.web)
+1. ❗️ Opened issue [#65](https://github.com/MarcusCalidus/marcuscalidus-svg-panel/issues/65) in [MarcusCalidus/marcuscalidus-svg-panel](https://github.com/MarcusCalidus/marcuscalidus-svg-panel)
+2. 🎉 Merged PR [#27](https://github.com/Sensetif/sensetif-app-plugin/pull/27) in [Sensetif/sensetif-app-plugin](https://github.com/Sensetif/sensetif-app-plugin)
 3. 🗣 Commented on [#1699](https://github.com/ops4j/org.ops4j.pax.web/issues/1699) in [ops4j/org.ops4j.pax.web](https://github.com/ops4j/org.ops4j.pax.web)
 <!--END_SECTION:activity-->
