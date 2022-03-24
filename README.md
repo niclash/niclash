@@ -19,7 +19,7 @@ I am also the owner of these GitHub Organizations
 
 ## Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#28](https://github.com/Sensetif/sensetif-app-plugin/issues/28) in [Sensetif/sensetif-app-plugin](https://github.com/Sensetif/sensetif-app-plugin)
-2. ❗️ Opened issue [#65](https://github.com/MarcusCalidus/marcuscalidus-svg-panel/issues/65) in [MarcusCalidus/marcuscalidus-svg-panel](https://github.com/MarcusCalidus/marcuscalidus-svg-panel)
-3. 🎉 Merged PR [#27](https://github.com/Sensetif/sensetif-app-plugin/pull/27) in [Sensetif/sensetif-app-plugin](https://github.com/Sensetif/sensetif-app-plugin)
+1. 🗣 Commented on [#29](https://github.com/Sensetif/sensetif-app-plugin/issues/29) in [Sensetif/sensetif-app-plugin](https://github.com/Sensetif/sensetif-app-plugin)
+2. ❗️ Opened issue [#29](https://github.com/Sensetif/sensetif-app-plugin/issues/29) in [Sensetif/sensetif-app-plugin](https://github.com/Sensetif/sensetif-app-plugin)
+3. ❗️ Opened issue [#28](https://github.com/Sensetif/sensetif-app-plugin/issues/28) in [Sensetif/sensetif-app-plugin](https://github.com/Sensetif/sensetif-app-plugin)
 <!--END_SECTION:activity-->
