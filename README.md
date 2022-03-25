@@ -20,6 +20,6 @@ I am also the owner of these GitHub Organizations
 ## Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#46952](https://github.com/grafana/grafana/issues/46952) in [grafana/grafana](https://github.com/grafana/grafana)
-2. ❗️ Opened issue [#46952](https://github.com/grafana/grafana/issues/46952) in [grafana/grafana](https://github.com/grafana/grafana)
-3. 🗣 Commented on [#29](https://github.com/Sensetif/sensetif-app-plugin/issues/29) in [Sensetif/sensetif-app-plugin](https://github.com/Sensetif/sensetif-app-plugin)
+2. 🗣 Commented on [#46952](https://github.com/grafana/grafana/issues/46952) in [grafana/grafana](https://github.com/grafana/grafana)
+3. ❗️ Opened issue [#46952](https://github.com/grafana/grafana/issues/46952) in [grafana/grafana](https://github.com/grafana/grafana)
 <!--END_SECTION:activity-->
