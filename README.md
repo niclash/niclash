@@ -19,7 +19,7 @@ I am also the owner of these GitHub Organizations
 
 ## Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#46952](https://github.com/grafana/grafana/issues/46952) in [grafana/grafana](https://github.com/grafana/grafana)
+1. ❗️ Closed issue [#46952](https://github.com/grafana/grafana/issues/46952) in [grafana/grafana](https://github.com/grafana/grafana)
 2. 🗣 Commented on [#46952](https://github.com/grafana/grafana/issues/46952) in [grafana/grafana](https://github.com/grafana/grafana)
 3. 🗣 Commented on [#46952](https://github.com/grafana/grafana/issues/46952) in [grafana/grafana](https://github.com/grafana/grafana)
 <!--END_SECTION:activity-->
