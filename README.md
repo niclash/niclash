@@ -19,7 +19,7 @@ I am also the owner of these GitHub Organizations
 
 ## Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/Sensetif/sensetif-app-plugin/issues/17) in [Sensetif/sensetif-app-plugin](https://github.com/Sensetif/sensetif-app-plugin)
+1. 🎉 Merged PR [#36](https://github.com/Sensetif/sensetif-app-plugin/pull/36) in [Sensetif/sensetif-app-plugin](https://github.com/Sensetif/sensetif-app-plugin)
 2. 🗣 Commented on [#17](https://github.com/Sensetif/sensetif-app-plugin/issues/17) in [Sensetif/sensetif-app-plugin](https://github.com/Sensetif/sensetif-app-plugin)
-3. 🗣 Commented on [#31](https://github.com/Sensetif/sensetif-app-plugin/issues/31) in [Sensetif/sensetif-app-plugin](https://github.com/Sensetif/sensetif-app-plugin)
+3. 🗣 Commented on [#17](https://github.com/Sensetif/sensetif-app-plugin/issues/17) in [Sensetif/sensetif-app-plugin](https://github.com/Sensetif/sensetif-app-plugin)
 <!--END_SECTION:activity-->
