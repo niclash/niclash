@@ -19,7 +19,7 @@ I am also the owner of these GitHub Organizations
 
 ## Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/breadbee/perdita/pull/1) in [breadbee/perdita](https://github.com/breadbee/perdita)
-2. 🎉 Merged PR [#39](https://github.com/Sensetif/sensetif-app-plugin/pull/39) in [Sensetif/sensetif-app-plugin](https://github.com/Sensetif/sensetif-app-plugin)
-3. 🎉 Merged PR [#8](https://github.com/Sensetif/sensetif-datasource-plugin/pull/8) in [Sensetif/sensetif-datasource-plugin](https://github.com/Sensetif/sensetif-datasource-plugin)
+1. 🗣 Commented on [#1](https://github.com/breadbee/perdita/issues/1) in [breadbee/perdita](https://github.com/breadbee/perdita)
+2. 🗣 Commented on [#1](https://github.com/breadbee/perdita/issues/1) in [breadbee/perdita](https://github.com/breadbee/perdita)
+3. 💪 Opened PR [#1](https://github.com/breadbee/perdita/pull/1) in [breadbee/perdita](https://github.com/breadbee/perdita)
 <!--END_SECTION:activity-->
